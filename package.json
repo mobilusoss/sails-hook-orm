@@ -24,7 +24,7 @@
   },
   "homepage": "http://sailsjs.com",
   "dependencies": {
-    "async": "1.5.2",
+    "async": "^3.1.0",
     "lodash": "^4.17.15",
     "prompt": "0.2.14",
     "rttc": "^10.0.1",
